@@ -1,16 +1,13 @@
-# hello_world
+# Chickn' Tender
 
-A new Flutter project.
+A Flutter project written in Dart during a 4-day hackathon. This mobile application aims to help the user decide what they would like to eat by narrowing down options. After the type of food has been selected, the app will present you with restaurant options near you.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Fork this repository and then `git clone`  the repository into your local machine.\
+Replace the API key with your Yelp API key.\
+Open this up and then run the line below to start the application on your emulator.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
